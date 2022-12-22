@@ -1,0 +1,24 @@
+{
+	"group":31,
+	"population":401,
+	"active":"50%",
+	"job_offers": 0.5,
+	"male": "{
+	
+		{"name": "Alex",
+		"age":30},
+		{"name":"Maksym",
+		"age": 30}
+
+},
+        "women":{
+        	{"name": "Anya",
+		 "age": 21},
+		{"name": "Olesya",
+		 "age":25}
+}
+
+
+}
+
+

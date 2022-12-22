@@ -1,0 +1,408 @@
+    1  pwd
+    2  ls -la
+    3  cd ..
+    4  ls
+    5  cd ..
+    6  ls
+    7  cd ..
+    8  pwd
+    9  cd /d
+   10  pwd
+   11  ls
+   12  cd /d/Downloads
+   13  pwd
+   14  cd ..
+   15  pwd
+   16  pwd
+   17  ls
+   18  cd /d/QA
+   19  pwd
+   20  mkdir group_26
+   21  ls -la
+   22  cd group_26
+   23  mkdir f_1 f_2 f_3
+   24  ls -la
+   25  cd f_1
+   26  touch lesson_1.txt
+   27  ls -la
+   28  vim lesson_1.txt
+   29  vim lesson_1.txt
+   30  mv lesson_1.txt ../f_2/lesson_1.txt
+   31  mv lesson_1.txt /d/QA/group_26/f_2
+   32  cd ..
+   33  ls -la
+   34  mv f_2/lesson_1.txt f_3/lesson_1.txt
+   35  cp f_3/lesson_1.txt f_2/lesson_1.txt
+   36  pwd
+   37  cd f_1
+   38  pwd
+   39  touch aboutmyself.json
+   40  vim aboutmyself.json 
+   41  vim aboutmyself.json 
+   42  cd /D:\QA\github
+   43  ls
+   44  pwd
+   45  cd /d
+   46  pwd
+   47  cd /D/QA/github
+   48  pwd
+   49  git clone https://github.com/mksmbbk/QA_26.git
+   50  ls
+   51  pwd
+   52  ls -la
+   53  cd github/
+   54  ls -la
+   55  ls -la
+   56  cat > test_1.txt
+   57  ls -la
+   58  cat test_1.txt 
+   59  1234
+   60  cat test_1.txt 
+   61  ls -la
+   62  git status
+   63  git status
+   64  cd /D/QA/github
+   65  git status
+   66  cd github
+   67  cd QA_26
+   68  git status
+   69  cat > test_1.txt
+   70  cat test_1.txt
+   71  git status
+   72  git add test_1.txt 
+   73  git status
+   74  git commit -m "add test_1.txt file"
+   75  git config --global user.email "you@example.com"maksimodessa007@gmail.com"
+   76  git config --global user.name "Your Name"mksmbbk
+   77   git config --global user.name "Your Name"mksmbbk"
+   78  git push
+   79  git push
+   80  clear
+   81  git commit -m "add test_1.txt file"
+   82  git config --global user.email "you@example.com"maksimodessa007@gmail.com"
+   83  git config --global user.name "Your Name"mksmbbk"
+   84  git commit -m "add test_1.txt file"
+   85  git push
+   86  git push
+   87  git push
+   88  git push
+   89  git status
+   90  git commit -m "proverka"
+   91  git push
+   92  git status
+   93  git add test_2.txt 
+   94  git add test_2.txt 
+   95  cat > test_2.txt
+   96  cat test_2.txt
+   97  git status
+   98  git add test_2.txt 
+   99  git commit -m "add test_2.txt file"
+  100  git push
+  101  python3 --version
+  102  python --version
+  103  pwd
+  104  cd D/QA/group_26
+  105  pwd
+  106  clear
+  107  pwd
+  108  mkdir hw
+  109  cd hw
+  110  mkdir hw1 hw2 hw3
+  111  cd hw1
+  112  touch hw1.txt hw2.txt hw3.txt
+  113  touch hw4.json hw5.json
+  114  mkdir max max1 max2
+  115  ls -la
+  116  vim hw1.txt
+  117  cd . .
+  118  cd .
+  119  cd /
+  120  ls
+  121  pwd
+  122  cd /D/QA/group_26
+  123  cd/hw/hw1
+  124  cd hw
+  125  cd hw1
+  126  cd /hw
+  127  cd/hw1
+  128  cd/hw
+  129  cd /hw
+  130  cd ..
+  131  mv hw1.txt ../max/hw1.txt
+  132  mv hw1.txt max
+  133  pwd
+  134  cd hw1
+  135  mv hw1.txt max
+  136  cd max
+  137  mv hw1.txt hw1
+  138  cd ..
+  139  mv hw1.txt hw4.json max/
+  140  cp hw2.txt hw5.json max1/
+  141  find -name hw2.txt
+  142  git clone https://github.com/mksmbbk/CV.git
+  143  rm -rf .git
+  144  rm -rf .git
+  145  cd CV
+  146  rm -rf .git
+  147  rm -rf README.md
+  148  cd . .
+  149  cd .
+  150  cd ..
+  151  git rm -f CV 
+  152  rm -rf CV
+  153  cd ..
+  154  git clone https://github.com/mksmbbk/CV.git
+  155  cd CV
+  156  git add CV_QA_Maksym_Bibik.pdf
+  157  git status
+  158  git commit -m "Download new CV"
+  159  git push
+  160  git push
+  161  git status
+  162  git status
+  163  cd bin
+  164  sh jmeter.sh
+  165  sh jmeter.sh
+  166  sh jmeter.sh
+  167  sh jmeter.sh
+  168  java --version
+  169  java -version
+  170  sh jmeter.sh
+  171  sh jmeter.sh
+  172  sh jmeter.sh
+  173  sh jmeter.sh
+  174  sh jmeter.sh
+  175  java -version
+  176  sh jmeter.sh
+  177  sh jmeter.sh
+  178  sh jmeter.sh
+  179  java -version
+  180  sh jmeter.sh
+  181  sh jmeter.sh
+  182  sh jmeter.sh
+  183  sh jmeter.sh
+  184  sh jmeter.sh
+  185  sh jmeter.sh
+  186  sh jmeter.sh
+  187  sh jmeter.sh
+  188  sh jmeter.sh
+  189  ssh user_26_1@23.88.52.139
+  190  ssh user_26_1@23.88.52.139
+  191  ssh user_26_1@23.88.52.139
+  192  ssh user_26_1@23.88.52.139
+  193  sh jmeter.sh
+  194  sh jmeter.sh
+  195  git add . HW_linux_terminal.md
+  196  git add . HW_linux_terminal.md
+  197  git commit -m "add HW_linux_terminal.md"
+  198  git push
+  199  git clone https://github.com/mksmbbk/TXT.git
+  200  touch new.txt
+  201  rm new.txt
+  202  cd TXT
+  203  touch new.txt
+  204  git add . new.txt
+  205  git commit -m "add new.txt"
+  206  git push
+  207  git add . new.txt
+  208  git commit -m "modified new.txt"
+  209  git push
+  210  ls -la
+  211  pwd
+  212  touch preferences.txt
+  213  git add . preferences.txt
+  214  git commit -m "modified preferences.txt"
+  215  git push
+  216  touch skills.txt
+  217  git add . skills.txt
+  218  git commit -m "modified skills.txt"
+  219  git push
+  220  git pull
+  221  git add .
+  222  git commit -m "add HW_linux_terminal_JSON_repo.md + HW_linux_terminal_XML_repo.md + HW_linux_terminal_TXT_repo.md"
+  223  git push
+  224  git add . HW_linux_terminal_TXT_repo.md
+  225  cd ..
+  226  cd ..
+  227  pwd
+  228  cd HW_Git
+  229  ls -la
+  230  cd HomeWork
+  231  ls -la
+  232  ls -la
+  233  cd ..
+  234  cd github
+  235  ls -la
+  236  cd HW_Git
+  237  git add .
+  238  git commit -m "add HW_linux_terminal_JSON_repo.md + HW_linux_terminal_XML_repo.md + HW_linux_terminal_TXT_repo.md"
+  239  git push
+  240  rm HW_linux_terminal_JSON_repo.md.bak
+  241  rm HW_linux_terminal_TXT_repo.md.bak
+  242  rm HW_linux_terminal_XML_repo.md.bak
+  243  git p
+  244  git pull
+  245  git fetch
+  246  git commit -m "add HW_linux_terminal_JSON_repo.md + HW_linux_terminal_XML_repo.md + HW_linux_terminal_TXT_repo.md"
+  247  git commit -m "add HW_linux_terminal_JSON_repo.md + HW_linux_terminal_XML_repo.md + HW_linux_terminal_TXT_repo.md"
+  248  git push
+  249  git add .
+  250  git commit -am "add HW_linux_terminal_JSON_repo.md + HW_linux_terminal_XML_repo.md + HW_linux_terminal_TXT_repo.md"
+  251  git push
+  252  git checkout -b Postman
+  253  git status
+  254  git ls -la
+  255  ls -la
+  256  git checkout -b Postman
+  257  git branch Postman
+  258  cd SQL
+  259  ls -la
+  260  cd ..
+  261  git init
+  262  git clone https://github.com/mksmbbk/test_tasks.git
+  263  git status
+  264  cd test_tasks
+  265  git status
+  266  git status
+  267  git add .
+  268  git status
+  269  git commit -am "add my test tasks"
+  270  git status
+  271  git push
+  272  git status
+  273  git add CV_Junior_QA_Maksym_Bibik.pdf
+  274  git status
+  275  git commit -am "updated my CV"
+  276  git status
+  277  git push
+  278  git status
+  279  git rm CV_QA_Maksym_Bibik.pdf
+  280  git status
+  281  git rm 1.txt
+  282  git status
+  283  git push
+  284  git rm CV_QA_Maksym_Bibik.pdf
+  285  git status
+  286  git commit -m "deleted my old CV"
+  287  git push
+  288  git clone https://github.com/mksmbbk/Postman.git
+  289  cd Postman
+  290  git status
+  291  git add .
+  292  git status
+  293  git commit -am "added Postman HW part 1"
+  294  git push
+  295  git status
+  296  git status
+  297  ls -la
+  298  cat >> new_1.txt
+  299  git status
+  300  git add new_1.txt
+  301  git status
+  302  git commit -am "add new file with row"
+  303  git status
+  304  git push
+  305  git status
+  306  git config --global --list
+  307  git config --global user.name mksmbbk
+  308  git config --global user.email maksimodessa007@gmail.com
+  309  git config --global --list
+  310  git status
+  311  git add new_1.txt
+  312  git status
+  313  git commit -m "added row_5"
+  314  git push
+  315  cd -
+  316  touch j_item.json
+  317  vim j_item.json
+  318  cat j_item.json
+  319  mkdir f_1
+  320  cp j_item.json f
+  321  rm f
+  322  cp j_item.json f_1/j_item.json
+  323  cd ..
+  324  cd -
+  325  cd f_1
+  326  mkdir ff_1
+  327  cd ff_1
+  328  mkdir fff_1
+  329  cd ..
+  330  cd ..
+  331  mv f_1/j_item.json ff_1/fff_1 j_item.json
+  332  mv Terminal GIT Bash/f_1/j_item.json ff_1/fff_1 j_item.json
+  333  pwd
+  334  cd f_1
+  335  mv /f_1/j_item.json ff_1/fff_1 j_item.json
+  336  mv f_1/j_item.json ff_1/fff_1 j_item.json
+  337  mv f_1/j_item.json ff_1/fff_1/j_item.json
+  338  cd ff_1
+  339  cd fff_1
+  340  cd ./.
+  341  cd ..
+  342  cd ../..
+  343  cd f_1
+  344  ls -la
+  345  mv f_1/j_item.json ff_1/j_item.json
+  346  mv f_1/j_item.json ff_1/j_item.json
+  347  mv j_item.json ff_1/j_item.json
+  348  cd ..
+  349  cd -
+  350  rm -rf ff_1
+  351  cd ..
+  352  cd f_1
+  353  cd ..
+  354  mv j_item.json f_1 j_item.json
+  355  mv j_item.json f_1/j_item.json
+  356  mkdir group_31
+  357  cd group_31
+  358  mkdir f_1 f_2 f_3
+  359  touch tt.txt
+  360  ls
+  361  ls -a
+  362  ls -l
+  363  ls -la
+  364  cat tt.txt
+  365  cat tt.txt
+  366  cat tt.txt
+  367  cat > tt2.txt
+  368  cat > tt1.txt
+  369  cat > tt3.txt
+  370  cat tt1.txt tt2.txt
+  371  cat tt1.txt tt3.txt
+  372  cat -b tt3.txt
+  373  cat -b tt3.txt
+  374  cat tt.txt | less
+  375  cat tt1.txt
+  376  cat tt1.txt >> tt3.txt
+  377  cat tt3.txt
+  378  cat > tt3.txt
+  379  cat tt3.txt
+  380  cat > tt3.txt
+  381  cat tt3.txt
+  382  cat tt1.txt >> tt3.txt
+  383  cat tt3.txt
+  384  cat tt4.txt tt5.txt
+  385  cat tt1.txt tt3.txt
+  386  cat > tt4.txt
+  387  cat tt4.txt
+  388  cd f_1
+  389  cat > xx.txt
+  390  cat > yy.txt
+  391  cd ..
+  392  cat > f_2/rr.txt
+  393  cd f_3
+  394  cat > ../f_2/oo.txt
+  395  find . -name oo*
+  396  cd ..
+  397  find . -name oo*
+  398  grep -r 2 *
+  399  grep oo *
+  400  grep -r oo group_31
+  401  grep oo group_31/*
+  402  cd ..
+  403  grep oo group_31/*
+  404  grep -r oo group_31
+  405  history history.txt
+  406  histoty
+  407  history
+  408  history > history.txt
